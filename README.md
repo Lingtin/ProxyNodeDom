@@ -1,2 +1,2 @@
-# proxydaili
-使用 node 代理 请求
+# ProxyNodeDom
+使用nodeJS 简单静态代理请求服务
